@@ -5,4 +5,4 @@ read -p "Enter commit name: " x
 
 git commit -m "${x}"
 
-git push -u dayat
+git push -u origin main
